@@ -8,9 +8,9 @@ I’m looking for help with new steps of my study.
 Ask me about anything you want.
 How to reach me: al_20.07@mail.ru
 
-STEK:
-JavaScript
-HTML
-CSS
+<h2 align="center">STEK</h2>
+<h3 align="center" color="blue">JavaScript</h3>
+<h3 align="center" color="blue">HTML</h3>
+<h3 align="center" color="blue">CSS</h3>
 
 Hobby: traveling
