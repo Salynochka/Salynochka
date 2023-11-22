@@ -6,6 +6,11 @@ I’m currently working on 'Mesto' project
 I’m currently learning React
 I’m looking for help with new steps of my study.
 Ask me about anything you want.
-How to reach me: send me a message.
+How to reach me: al_20.07@mail.ru
+
+STEK:
+JavaScript
+HTML
+CSS
 
 Hobby: traveling
