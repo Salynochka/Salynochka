@@ -3,10 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2336BCF7&lines=Hello!+My+name+is+Alena.)</h2>
 <h4>I'm an aspiring frontend developer.
 The new field inspires me in that I can influence the change in a web page at any time. 
-
-
 I’m currently working on my Pet project.
 Ask me about anything you want.</h4>
+<h4 align="center"> 
+ 
+ ![](https://komarev.com/ghpvc/?username=salynochka) </h4>
 <h4>How to reach me: al_20.07@mail.ru</h4>
 
 <h2 align="center">STEK</h2>
@@ -26,5 +27,13 @@ Ask me about anything you want.</h4>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 
+
+<h2 align="center"> 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salynochka&layout=compact)](https://github.com/salynochka/github-readme-stats) </h2>
+
+<h4 align="center">
+ 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</h4>
 
 
