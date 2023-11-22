@@ -1,6 +1,7 @@
 ![image](https://github.com/Salynochka/Salynochka/assets/121084483/24c25a82-f1a5-4ee7-a332-f7c2de010f77)
 
-I'm an aspiring web developer. The new field inspires me in that I can influence the change in a web page at any time. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+an+aspiring+frontend+developer.)](https://git.io/typing-svg)
+The new field inspires me in that I can influence the change in a web page at any time. 
 
 I’m currently working on 'Mesto' project
 I’m currently learning React
